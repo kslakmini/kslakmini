@@ -4,12 +4,9 @@
 <div style={{display:"flex"}}>
         <div>
           - 🔭 I’m currently working on [Ceylon Mr Traveller](mr-traveller.com)
-          - 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are
-          available at
-          [https://www.w3schools.com/html/](https://www.w3schools.com/html/) -
-          📫 How to reach me **sachintha.lakmini.k@gmail.com** - 📄 Know about
-          my experiences
-          [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+          - 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are available at [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+          - 📫 How to reach me **sachintha.lakmini.k@gmail.com**
+                - 📄 Know about my experiences[https://www.w3schools.com/html/](https://www.w3schools.com/html/)
         </div>
         <div>
           <img
