@@ -1,7 +1,7 @@
 <img src="https://ryansechrest.com/content/images/2022/08/nodes.gif" alt="css3" width=100% height="300"/>
 <h1 align="center">Hi 👋, I'm Sachintha Lakmini</h1>
 <h3 align="center">FullStack Developer | Undergraduate at NSBM</h3>
-div style={{display:"flex"}}>
+<div style={{display:"flex"}}>
         <div>
           - 🔭 I’m currently working on [Ceylon Mr Traveller](mr-traveller.com)
           - 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are
