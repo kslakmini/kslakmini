@@ -1,23 +1,25 @@
 <img src="https://ryansechrest.com/content/images/2022/08/nodes.gif" alt="css3" width=100% height="300"/>
 <h1 align="center">Hi 👋, I'm Sachintha Lakmini</h1>
 <h3 align="center">FullStack Developer | Undergraduate at NSBM</h3>
-<div style={display:"flex"}>
-  <div>
-    
-- 🔭 I’m currently working on [Ceylon Mr Traveller](mr-traveller.com)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
-
-- 📫 How to reach me **sachintha.lakmini.k@gmail.com**
-
-- 📄 Know about my experiences [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
-  </div>
-  <div>
-    <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif" alt="develop" width="350" height="250" />
-  </div>
-</div>
+div style={{display:"flex"}}>
+        <div>
+          - 🔭 I’m currently working on [Ceylon Mr Traveller](mr-traveller.com)
+          - 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are
+          available at
+          [https://www.w3schools.com/html/](https://www.w3schools.com/html/) -
+          📫 How to reach me **sachintha.lakmini.k@gmail.com** - 📄 Know about
+          my experiences
+          [https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+        </div>
+        <div>
+          <img
+            src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif"
+            alt="develop"
+            width="350"
+            height="250"
+          />
+        </div>
+      </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sachintha lakmini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachintha lakmini" height="30" width="40" /></a>
